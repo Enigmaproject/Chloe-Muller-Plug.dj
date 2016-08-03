@@ -1,10 +1,10 @@
 {
 	"maow": "\/me = ^.˘.^ =  maow!",
 	
-	"help": "\/me Useful commands: !dance !maow !skip. All commands: http://bit.ly/29Axamq",
+	"help": "\/me Useful commands: !dance !maow !skip. All commands: ",
 	
   "welcome": "/me Welcome %%NAME%%, to 'Electronic Paradise Festival', A New Experience To Enjoy Your Summer 2016 With The Essence of Electronic Music Around The World", please read the rules on the the description of the room.",
-	"welcomeback": "/me Welcome back to Electronic Paradise Festival, %%NAME%%!", (If you were on the list used !dc)
+	"welcomeback": "/me Welcome back to Electronic Paradise Festival, %%NAME%%! (If you were on the list used !dc)"
 
 	"dances": [
 		"\/me %%NAME%% is doing a moonwalk! On the actual Moon.",
