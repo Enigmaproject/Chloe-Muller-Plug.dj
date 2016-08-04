@@ -89,7 +89,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "ChloeMuller",
       language: "english",
-      chatLink: "https://rawgit.com/" + fork + "/Enigmaproject/Chloe-Muller-Plug.dj/master/lang/en.json",
+      chatLink: "https://rawgit.com/Enigmaproject/Chloe-Muller-Plug.dj/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
